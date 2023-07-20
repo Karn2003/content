@@ -1,8 +1,9 @@
----
-title: What's in the head? Metadata in HTML
+<!doctype html>
+<head>
+<title> What's in the head? Metadata in HTML</title>
 slug: Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
 page-type: learn-module-chapter
----
+</head>
 
 {{LearnSidebar}}{{PreviousMenuNext("Learn/HTML/Introduction_to_HTML/Getting_started", "Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals", "Learn/HTML/Introduction_to_HTML")}}
 
